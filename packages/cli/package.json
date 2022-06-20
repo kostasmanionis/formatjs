@@ -41,6 +41,18 @@
       "optional": true
     }
   },
+  "dependencies": {
+    "@vue/compiler-core": "*",
+    "json-stable-stringify": "*",
+    "@formatjs/ts-transformer": "*",
+    "@formatjs/icu-messageformat-parser": "*",
+    "typescript": "*",
+    "fs-extra": "*",
+    "chalk": "*",
+    "commander": "*",
+    "loud-rejection": "*",
+    "fast-glob": "*"
+  },
   "engines": {
     "node": ">= 16.5.0"
   }
